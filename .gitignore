@@ -1,0 +1,13 @@
+addons/sh_message/__init__.py
+addons/sh_message/__manifest__.py
+addons/sh_message/LICENSE
+addons/sh_message/static/description/1.png
+addons/sh_message/static/description/2.png
+addons/sh_message/static/description/background.png
+addons/sh_message/static/description/icon.png
+addons/sh_message/static/description/index.html
+addons/sh_message/wizard/__init__.py
+addons/sh_message/wizard/sh_message_wizard.py
+addons/sh_message/wizard/sh_message_wizard.xml
+addons/sh_message/wizard/__pycache__/__init__.cpython-35.pyc
+addons/sh_message/wizard/__pycache__/sh_message_wizard.cpython-35.pyc

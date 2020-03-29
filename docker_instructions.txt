@@ -1,0 +1,5 @@
+docker-compose up -d            # start all containers
+docker stop $(docker ps -a -q)  # stop all containers (odoo+posgres)
+docker logs -f 18660b772b3a     # display the log
+
+https://hub.docker.com/_/odoo
